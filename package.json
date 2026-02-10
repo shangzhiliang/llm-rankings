@@ -1,0 +1,13 @@
+{
+  "name": "llm-rankings",
+  "version": "1.0.0",
+  "description": "大模型排行榜网站",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
