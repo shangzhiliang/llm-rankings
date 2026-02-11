@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 开始探索
-      link: /openai/
+      link: /openai
     - theme: alt
       text: GitHub 仓库
       link: https://github.com/yourname/llm-rankings
